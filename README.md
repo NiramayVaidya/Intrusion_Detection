@@ -13,6 +13,3 @@ It then captures a real time picture of the person who is currently operating th
 It finally logs off from the computer i.e. shuts it down
 <br/>
 On the other hand, if the user responds with a yes, then the program exits
-
------- 
-![image](https://raw.githubusercontent.com/NiramayVaidya/Intrusion_Detection/blob/master/Intruder_Picture.png)
