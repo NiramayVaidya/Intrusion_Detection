@@ -39,8 +39,6 @@ def image_send():
 def log_off():
 	os.system('rundll32.exe powrprof.dll,SetSuspendState 0,1,0')
 
-
-
 # The intrusion detection control function
 def control():
 	while True:
